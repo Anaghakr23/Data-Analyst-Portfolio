@@ -43,15 +43,6 @@ Hi, I’m **Anagha**, an aspiring Data Analyst with a background in Electronics 
 - **Technology**: Python, Jupyter Notebook.  
 - **Results**: Created insightful visualizations to understand weather variations and trends effectively.
 
-**2. EyeCursor and EyeBlink Sensor**  
-- **Goal**: Assist paralyzed patients in controlling a computer cursor using eye-tracking technology.  
-- **Description**: Developed an innovative project using Raspberry Pi, a camera, and an eye-blink sensor. This tool allows users to interact with a computer through eye movements and blinks, providing a way to browse and communicate hands-free.  
-- **Skills**: Embedded systems, hardware integration, Python programming.  
-- **Technology**: Raspberry Pi, Python, camera module, eye-blink sensor.  
-- **Results**: Delivered an assistive tool that improves accessibility for individuals with physical disabilities.
-
----
-
 ### SQL Projects
 
 **1. Library Management System**  
@@ -95,10 +86,6 @@ Hi, I’m **Anagha**, an aspiring Data Analyst with a background in Electronics 
 ## Education
 
 - **Bachelor's Degree**: Electronics and Communication Engineering (ECE) with a minor in Computer Science (CSE).
-- **Certifications**: 
-  - Data Visualization with Python (GreatLearning)
-  - Power BI Training (Simplilearn)
-  - Introduction to Tableau (Simplilearn)
 
 ---
 
@@ -106,7 +93,8 @@ Hi, I’m **Anagha**, an aspiring Data Analyst with a background in Electronics 
 
 1. Data Visualization with Python (GreatLearning)
 2. Power BI Training (Simplilearn)
-3. Introduction to Tableau (Simplilearn)
+3. Microsoft Excel for Data Analyst(Infosys springboard)
+   
 
 ---
 
@@ -115,6 +103,6 @@ Hi, I’m **Anagha**, an aspiring Data Analyst with a background in Electronics 
 I’d love to connect and discuss potential collaboration opportunities or data-driven challenges!
 
 - **Email**: anaghakr23@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: 
 
 ---
