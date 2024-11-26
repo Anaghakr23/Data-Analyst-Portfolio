@@ -12,7 +12,6 @@ I’m currently interning at Rogersoft Pvt Ltd as a Data Science Intern, where I
 2. **Portfolio Projects**
    - **Python Projects**
      - Weather Data Visualization
-     - EyeCursor and EyeBlink Sensor
    - **SQL Projects**
      - Library Management System
    - **Power BI Projects**
