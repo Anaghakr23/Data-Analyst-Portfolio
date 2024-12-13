@@ -80,7 +80,18 @@ Hi, I’m **Anagha**, an aspiring Data Analyst with a background in Electronics 
 - **Technology**: Microsoft Excel.  
 - **Results**: Helped hotel management identify factors contributing to cancellations and strategize to reduce booking losses.
 
----
+### Machine Learning Project
+
+**1.Skin Cancer Detection Using ML
+Here's an updated version with your Skin Cancer Detection using Machine Learning project:
+
+**Goal**: Develop a machine learning model to detect skin cancer from images.  
+- **Description**: Utilized Python and machine learning techniques to create a model that classifies skin lesions as malignant or benign. Preprocessed image data, extracted features, and trained the model Transfer Learning algorithms.  
+- **Skills**: Data preprocessing, machine learning, image classification, model evaluation.  
+- **Technology**: Python, TensorFlow, Keras, OpenCV.  
+- **Results**: Achieved high accuracy in detecting skin cancer, contributing to early detection and potentially improving patient outcomes.
+
+----------
 
 ## Education
 
@@ -93,6 +104,7 @@ Hi, I’m **Anagha**, an aspiring Data Analyst with a background in Electronics 
 1. Data Visualization with Python (GreatLearning)
 2. Power BI Training (Simplilearn)
 3. Microsoft Excel for Data Analyst(Infosys springboard)
+4. Data Analyst Bootcamp From Begieer to Advanced (Udemy)
    
 
 ---
@@ -102,6 +114,6 @@ Hi, I’m **Anagha**, an aspiring Data Analyst with a background in Electronics 
 I’d love to connect and discuss potential collaboration opportunities or data-driven challenges!
 
 - **Email**: anaghakr23@gmail.com
-- **LinkedIn**: 
+- **LinkedIn**: www.linkedin.com/in/anagha-k-r-b87aba212
 
 ---
