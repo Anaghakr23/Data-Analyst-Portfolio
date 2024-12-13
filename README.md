@@ -19,6 +19,8 @@ I’m currently interning at Rogersoft Pvt Ltd as a Data Science Intern, where I
      - Super Sales Analysis
    - **Excel Projects**
      - Hotel Cancellations Dashboard
+   - **MachineLearning Projects**
+      - Skin Cancer Detection System 
 3. **Education**
 4. **Certificates**
 5. **Contact**
@@ -80,12 +82,14 @@ Hi, I’m **Anagha**, an aspiring Data Analyst with a background in Electronics 
 - **Technology**: Microsoft Excel.  
 - **Results**: Helped hotel management identify factors contributing to cancellations and strategize to reduce booking losses.
 
+----
+
 ### Machine Learning Project
 
-**1.Skin Cancer Detection Using ML
+**1**.**Skin Cancer Detection Using ML**
 Here's an updated version with your Skin Cancer Detection using Machine Learning project:
 
-**Goal**: Develop a machine learning model to detect skin cancer from images.  
+- **Goal**: Develop a machine learning model to detect skin cancer from images.  
 - **Description**: Utilized Python and machine learning techniques to create a model that classifies skin lesions as malignant or benign. Preprocessed image data, extracted features, and trained the model Transfer Learning algorithms.  
 - **Skills**: Data preprocessing, machine learning, image classification, model evaluation.  
 - **Technology**: Python, TensorFlow, Keras, OpenCV.  
